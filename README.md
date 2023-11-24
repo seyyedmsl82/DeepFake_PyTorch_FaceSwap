@@ -31,7 +31,7 @@ Follow these steps to utilize the face swapping script:
 3. **Run the script**:
 
    ```python
-   python face_swap.py
+   python Deep_Fake_Using_PyTorch.ipynb
    ```
 
 ## Approach
