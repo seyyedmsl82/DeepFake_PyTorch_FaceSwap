@@ -62,6 +62,9 @@ The script enters a training loop, optimizing the parameters of the autoencoder 
 
 Every 100 epochs, the script visualizes the transformations between 'personA' and 'personB.' This insightful step showcases the effectiveness of the trained autoencoder in realistically swapping facial features. It provides a qualitative assessment of the model's performance.
 
+![Understanding the Technology Behind DeepFakes](https://github.com/seyyedmsl82/DeepFake_PyTorch_FaceSwap/blob/main/deepfake.png)
+![](https://github.com/seyyedmsl82/DeepFake_PyTorch_FaceSwap/blob/main/Deepfake-using-an-auto-encoder.png)
+
 ## Acknowledgments
 
 This face swapping script draws inspiration from the repository maintained by [sizhky](https://github.com/sizhky/deep-fake-util). The acknowledgment section recognizes the contributions and inspirations from other developers, fostering a collaborative and innovative coding community.
